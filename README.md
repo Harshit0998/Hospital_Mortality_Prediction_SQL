@@ -1,5 +1,6 @@
 # Hospital Mortality Prediction
-SQL & Data Analytics Project – Predictors of In-Hospital Mortality  
+- SQL & Data Analytics Project – Predictors of In-Hospital Mortality.
+- Dataset Used : [Kaggle](https://www.kaggle.com/datasets/mitishaagarwal/patient)
 
 ## Project Overview  
 This project explores patient survival data to identify the **key predictors of in-hospital mortality**.  
